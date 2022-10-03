@@ -16,7 +16,11 @@ print(s_best)
 График лучшего сплайна
 
 Задача 2
+
 Меняем train_percent = 0.8, 0.85, 0.9 и можно заметить что меняется сплайн
+
 При train_percent = 0.8, MSE =312
+
 При train_percent = 0.85, MSE =325
+
 При train_percent = 0.9, MSE =324
